@@ -7,3 +7,5 @@ once again updating from github
 
 more addition using local repo
 
+now by remote
+
